@@ -1,0 +1,5 @@
+body { font-family: Arial; background: #f4f4f4; padding: 20px; }
+#quiz-container { background: #fff; padding: 20px; border-radius: 8px; max-width: 500px; margin: auto; }
+button { margin-top: 10px; padding: 10px; }
+.option { display: block; margin: 5px 0; padding: 8px; border: 1px solid #ccc; cursor: pointer; border-radius: 4px; }
+.option:hover { background: #eee; }
